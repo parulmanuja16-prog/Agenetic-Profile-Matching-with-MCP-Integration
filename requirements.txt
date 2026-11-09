@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+openai
+pypdf
+python-docx
+docx2txt
+tqdm
+mcp>=1.30,<2
